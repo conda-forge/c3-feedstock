@@ -15,12 +15,15 @@ A D3-based reusable chart library
 Current build status
 ====================
 
-All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/c3-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/c3-feedstock)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/c3-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/c3-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/c3/badges/version.svg)](https://anaconda.org/conda-forge/c3)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/c3/badges/downloads.svg)](https://anaconda.org/conda-forge/c3)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-c3-green.svg)](https://anaconda.org/conda-forge/c3) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/c3.svg)](https://anaconda.org/conda-forge/c3) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/c3.svg)](https://anaconda.org/conda-forge/c3) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/c3.svg)](https://anaconda.org/conda-forge/c3) |
 
 Installing c3
 =============
