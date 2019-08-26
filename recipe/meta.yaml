@@ -1,6 +1,6 @@
 {% set name = "c3" %}
-{% set version = "0.7.7" %}
-{% set sha256 = "dddfa5396a5ffd7aac348a47a02a1bbe2ca036cb0c02f8a1c455a969ec234ae5" %}
+{% set version = "0.7.8" %}
+{% set sha256 = "ac09e0f59c0c453fdc45bd3da4179beadefd12f232c9b550a82b468036a71608" %}
 
 package:
   name: {{ name|lower }}
