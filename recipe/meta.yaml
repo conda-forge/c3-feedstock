@@ -1,6 +1,6 @@
 {% set name = "c3" %}
-{% set version = "0.7.11" %}
-{% set sha256 = "004209a66081bf94452faa3d044bce532264e29de7782e9cb67c25e9aaabc106" %}
+{% set version = "0.7.15" %}
+{% set sha256 = "d3d2d6665a501ae64ad1c9e5ec5825df5a7a02c8f01295a17b23808ba807cf57" %}
 
 package:
   name: {{ name|lower }}
@@ -22,18 +22,18 @@ requirements:
     - nodejs
   run:
     - nodejs
-    
+
 test:
   commands:
     - npm list -g c3
-    
+
 
 about:
   home: https://github.com/c3js/c3
   license: MIT
   license_family: MIT
   license_file: LICENSE
-  summary: 'A D3-based reusable chart library'
+  summary: A D3-based reusable chart library
   description: |
     A D3-based reusable chart library   
   doc_url: http://c3js.org/gettingstarted.html
